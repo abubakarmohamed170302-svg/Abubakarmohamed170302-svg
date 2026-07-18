@@ -67,8 +67,7 @@ A production-style multi-container application built using:
 - Environment Variables
 - Multi-container Architecture
 
-🔗 Repository:
-**Containers-and-Docker-notes**
+[Containers-and-Docker-notes](https://github.com/abubakarmohamed170302-svg/Containers-and-Docker-notes)
 
 ---
 
@@ -84,8 +83,7 @@ Comprehensive networking notes covering:
 - Troubleshooting
 - Cloud Networking
 
-🔗 Repository:
-**Networking-notes**
+[Networking-notes](https://github.com/abubakarmohamed170302-svg/Networking-notes)
 
 ---
 
@@ -100,8 +98,7 @@ Hands-on Linux notes covering:
 - Networking
 - Package Management
 
-🔗 Repository:
-**Linux-notes**
+[Linux-notes](https://github.com/abubakarmohamed170302-svg/Linux-notes)
 
 ---
 
@@ -116,8 +113,7 @@ Automation scripts covering:
 - Error Handling
 - Automation Scripts
 
-🔗 Repository:
-**Bash-Scripting**
+[Bash-Scripting](https://github.com/abubakarmohamed170302-svg/Bash-Scripting)
 
 ---
 
@@ -131,8 +127,7 @@ Real-world Linux troubleshooting labs documenting:
 - Linux administration
 - Problem solving
 
-🔗 Repository:
-**Sadservers-Writeups**
+[Sadservers-Writeups](https://github.com/abubakarmohamed170302-svg/Sadservers-Writeups)
 
 ---
 
@@ -167,8 +162,7 @@ Real-world Linux troubleshooting labs documenting:
 
 # 📫 Connect With Me
 
-💼 LinkedIn:
-*(Add your LinkedIn profile link here)*
+💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/abubakar-mohamed-3047a5211/)
 
 ---
 
